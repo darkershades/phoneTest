@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "name": "com.morungos.cordova.ios.safari",
+    "cordova_name": "Device",
+    "description": "Cordova iOS Safari Plugin",
+    "license": "Apache 2.0",
+    "keywords": [
+        "cordova",
+        "safari"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": []
+}
